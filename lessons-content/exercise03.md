@@ -1,9 +1,9 @@
-## [Lesson01](../readme.md) > Exercise02:
+## [Lesson01](../readme.md) > Exercise03:
 
-1. Open class [Main](../app/src/main/java/org/dii/oop/Main.java) in package `main.java.org.dii.oop` and edit the code to call Lesson.run() method from `exercise03`.
+1. Open class [Main](../src/main/java/org/dii/oop/Main.java) in package `main.java.org.dii.oop` and edit the code to call Lesson.run() method from `exercise03`.
   
-2. Create a ChoHan Game machine for multiple players by modifying [ChoHanGame](../app/src/main/java/org/dii/oop/exercise03/ChoHanGame.java) class in package `main.java.org.dii.oop.exercise03`.
-   * add the two following static variables to [ChoHanGame](../app/src/main/java/org/dii/oop/exercise03/ChoHanGame.java) class. 
+2. Create a ChoHan Game machine for multiple players by modifying [ChoHanGame](../src/main/java/org/dii/oop/exercise03/ChoHanGame.java) class in package `main.java.org.dii.oop.exercise03`.
+   * add the two following static variables to [ChoHanGame](../src/main/java/org/dii/oop/exercise03/ChoHanGame.java) class. 
 
 
 ```
@@ -12,7 +12,7 @@
 ```
 
    * find the locations where you need to update this two static variables.
-   * Check the overall and try to run it. [Lesson](../app/src/main/java/org/dii/oop/exercise03/Lesson.java) will call the run method in ChoHanGame.
+   * Check the overall and try to run it. [Lesson](../src/main/java/org/dii/oop/exercise03/Lesson.java) will call the run method in ChoHanGame.
 The output should look like the following example.
 
 ```

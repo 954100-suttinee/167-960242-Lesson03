@@ -1,6 +1,6 @@
 ## [Lesson01](../readme.md) > Exercise02: 
 
-1. Open class [Main](../app/src/main/java/org/dii/oop/Main.java) in package `main.java.org.dii.oop` and edit the code to call Lesson.run() method from `exercise02`.
+1. Open class [Main](../src/main/java/org/dii/oop/Main.java) in package `main.java.org.dii.oop` and edit the code to call Lesson.run() method from `exercise02`.
 
 
 2. Create a Java program to find an area of shape.
