@@ -1,4 +1,4 @@
-## [Lesson03](../readme.md) > Exercise03:
+## [Lesson04](../readme.md) > Exercise03:
 
 1. Open class [Main](../src/main/java/org/dii/oop/Main.java) in package `main.java.org.dii.oop` and edit the code to call Lesson.run() method from `exercise03`.
   
@@ -7,8 +7,8 @@
 
 
 ```
-   static public int numPlayers = 0; // store the number of players.
-   static public int total = 0 ; // store the total amount the machine has.
+   static int numPlayers = 0; // store the number of players.
+   static int total = 0 ; // store the total amount the machine has.
 ```
 
    * find the locations where you need to update this two static variables.
