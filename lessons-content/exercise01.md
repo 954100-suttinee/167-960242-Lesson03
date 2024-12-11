@@ -1,6 +1,6 @@
-## [Lesson03](../readme.md) > Exercise01:
+## [Lesson04](../readme.md) > Exercise01:
 
-1. Open class [Main](../src/main/java/org/dii/oop/Main.java) in package `main.java.org.dii.oop` and edit the code as display below:
+1. Open class [Main](../src/main/java/org/dii/oop/Main.java) in package `main.java.org.dii.oop` and edit the code below:
    ```
    package main.java.org.dii.oop;
 
@@ -12,6 +12,7 @@
     }
    }
    ```
+Note that static method cannot call non-static method directly. 
 
 2. Creates a package called `main.java.org.dii.oop.exercise01.animals`. 
 
