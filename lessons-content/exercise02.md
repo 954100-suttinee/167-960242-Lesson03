@@ -54,11 +54,11 @@ Enter the height: 6
 The triangle area is 12.0
 ```
 
-4. Add a static variable to count the number of circles, triangles, rectangles and display before terminating the program. 
+4. Add a `static variable` to count the number of circles, triangles, rectangles and display before terminating the program. 
 
 ```
 The total number of circles is 1.
 The total number of triangle is 1.
 The total number of  rectangle is 1.
 ```
-
+5. Add access modifier `private` to all the `static variables`, then create a method to get the value of each static variable. 
