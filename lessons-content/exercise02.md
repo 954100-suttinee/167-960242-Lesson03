@@ -23,7 +23,7 @@
   ```
 
 
-2. Edit class  [Lesson](../src/main/java/org/dii/oop/exercise02/Lesson.java) in package `main.java.org.dii.oop.exercise02` to write the program.
+ Edit class  [Lesson](../src/main/java/org/dii/oop/exercise02/Lesson.java) in package `main.java.org.dii.oop.exercise02` to write the program.
 
 
 3. Run the code. The output should look like the example belows.
@@ -31,7 +31,7 @@
 1. Circle
 2. Rectangle
 3. Triangle
-Please select the shape [1-3]: 1
+Please select the shape [1-3] or [0] to exit: 1
 Enter the radius: 5
 The circle area is 78.5
 ```
@@ -39,7 +39,7 @@ The circle area is 78.5
 1. Circle
 2. Rectangle
 3. Triangle
-Please select the shape [1-3]: 2
+Please select the shape [1-3] or [0] to exit: 2
 Enter the width: 3
 Enter the height: 5
 The rectangle area is 15.0
@@ -48,8 +48,17 @@ The rectangle area is 15.0
 1. Circle
 2. Rectangle
 3. Triangle
-Please select the shape [1-3]: 3
+Please select the shape [1-3] or [0] to exit: 3
 Enter the base: 4
 Enter the height: 6
 The triangle area is 12.0
 ```
+
+4. Add a static variable to count the number of circles, triangles, rectangles and display before terminating the program. 
+
+```
+The total number of circles is 1.
+The total number of triangle is 1.
+The total number of  rectangle is 1.
+```
+
